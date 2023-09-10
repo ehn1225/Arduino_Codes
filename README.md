@@ -69,7 +69,7 @@
 - 직접 조건문과 함수 호출하는 것을 실습해보도록 공란을 만들어 놓음
 
 ## Images
-<img src="https://github.com/ehn1225/Arduino_Codes/assets/5174517/4814b5f7-9ff9-4954-89b2-c86ac5ac0f24"  width="700"/>
+<img src="https://github.com/ehn1225/Arduino_Codes/assets/5174517/c552f3f5-1286-4b08-8d93-9b0a937e0376"  width="700"/>
 <img src="https://github.com/ehn1225/Arduino_Codes/assets/5174517/49a1fb49-80c5-47a5-9956-5c695ebbbbb0"  width="700"/>
 <img src="https://github.com/ehn1225/Arduino_Codes/assets/5174517/c0869619-cb21-465b-8884-10cc25685b2e"  width="700"/>
 
